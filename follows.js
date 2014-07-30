@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'FGfz5W2K6YgDZu8Atz14WkFNJlfwp8UbF89C6OdAHuOfwZO7', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [449069911], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= 'e0ieBqJaVk5Tn0uX5iCPVmrChTJv7zEAhF1YJB9jmdnLPOS2', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [962519610], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'AquaGreens Sensor Data Display', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
